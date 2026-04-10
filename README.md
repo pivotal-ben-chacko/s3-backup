@@ -38,6 +38,7 @@ Copy one of the example configs and fill in your credentials:
 ```bash
 cp config.local.example.json config.json   # for local backup
 cp config.s3.example.json config.json       # for S3-to-S3 backup
+cp config.ecs.example.json config.json      # for Dell ECS backup
 ```
 
 ### Source (S3-compatible)
@@ -101,4 +102,5 @@ Works with any S3-compatible provider:
 - DigitalOcean Spaces
 - Wasabi
 - Google Cloud Storage (S3 interop)
+- Dell ECS
 - Ceph/RadosGW

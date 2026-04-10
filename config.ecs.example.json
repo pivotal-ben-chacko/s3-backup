@@ -9,15 +9,9 @@
     "use_ssl": true
   },
   "destination": {
-    "type": "s3",
-    "s3": {
-      "endpoint": "ecs-backup.example.com:9021",
-      "bucket": "my-backup-bucket",
-      "prefix": "backups/",
-      "access_key": "ECS_DEST_ACCESS_KEY",
-      "secret_key": "ECS_DEST_SECRET_KEY",
-      "region": "us-east-1",
-      "use_ssl": true
+    "type": "local",
+    "local": {
+      "path": "/backups/ecs"
     }
   },
   "options": {
