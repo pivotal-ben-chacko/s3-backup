@@ -1,0 +1,24 @@
+{
+  "source": {
+    "endpoint": "s3.amazonaws.com",
+    "bucket": "<BUCKET-NAME>",
+    "prefix": "",
+    "access_key": "<ACCESS-KEY>",
+    "secret_key": "<SECRET>",
+    "region": "us-west-2",
+    "use_ssl": true
+  },
+  "destination": {
+    "type": "local",
+    "local": {
+      "path": "/tmp/my-s3-bucket"
+    }
+  },
+  "options": {
+    "workers": 4,
+    "dry_run": false,
+    "skip_existing": true,
+    "log_file": "backup.log",
+    "retry_attempts": 3
+  }
+}

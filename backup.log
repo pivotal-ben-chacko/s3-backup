@@ -1,0 +1,63 @@
+[s3backup] 2026/04/09 21:27:56 Starting backup: chackobackup/ -> local:/tmp/my-s3-bucket
+[s3backup] 2026/04/09 21:27:56 Workers: 4 | SkipExisting: true | DryRun: false
+[s3backup] 2026/04/09 21:34:03 Received shutdown signal, finishing in-progress transfers...
+[s3backup] 2026/04/09 21:34:03 Retry 1/3 for Backup/Famina/Youtube Videos/Dave Koziel/Building a Back End For Your Kindle Publishing Business.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:03 Retry 1/3 for Backup/Famina/Youtube Videos/Dave Koziel/How to Use Your Kindle E-book to Build an E-mail List.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:03 Retry 1/3 for Backup/Famina/Youtube Videos/Dave Koziel/Finding Fiction and Non-Fiction Keywords For Your Kindle Books.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:03 Retry 1/3 for Backup/Famina/Youtube Videos/Dave Koziel/How to Use Kindle Kid Creator and Kindle Comic Creator.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:04 Retry 2/3 for Backup/Famina/Youtube Videos/Dave Koziel/How to Use Kindle Kid Creator and Kindle Comic Creator.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:04 Retry 2/3 for Backup/Famina/Youtube Videos/Dave Koziel/Finding Fiction and Non-Fiction Keywords For Your Kindle Books.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:04 Retry 2/3 for Backup/Famina/Youtube Videos/Dave Koziel/How to Use Your Kindle E-book to Build an E-mail List.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:04 Retry 2/3 for Backup/Famina/Youtube Videos/Dave Koziel/Building a Back End For Your Kindle Publishing Business.mp4: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Dave%20Koziel/Building%20a%20Back%20End%20For%20Your%20Kindle%20Publishing%20Business.mp4": context canceled
+[s3backup] 2026/04/09 21:34:06 Retry 3/3 for Backup/Famina/Youtube Videos/Dave Koziel/How to Use Kindle Kid Creator and Kindle Comic Creator.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:06 Retry 3/3 for Backup/Famina/Youtube Videos/Dave Koziel/Building a Back End For Your Kindle Publishing Business.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:06 Retry 3/3 for Backup/Famina/Youtube Videos/Dave Koziel/How to Use Your Kindle E-book to Build an E-mail List.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:06 Retry 3/3 for Backup/Famina/Youtube Videos/Dave Koziel/Finding Fiction and Non-Fiction Keywords For Your Kindle Books.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:09 [worker 1] FAIL Backup/Famina/Youtube Videos/Dave Koziel/How to Use Kindle Kid Creator and Kindle Comic Creator.mp4: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:09 [worker 0] FAIL Backup/Famina/Youtube Videos/Dave Koziel/How to Use Your Kindle E-book to Build an E-mail List.mp4: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:09 [worker 2] FAIL Backup/Famina/Youtube Videos/Dave Koziel/Finding Fiction and Non-Fiction Keywords For Your Kindle Books.mp4: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:09 ERROR listing: context canceled
+[s3backup] 2026/04/09 21:34:09 [worker 3] FAIL Backup/Famina/Youtube Videos/Dave Koziel/Building a Back End For Your Kindle Publishing Business.mp4: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:09 Retry 1/3 for Backup/Famina/Youtube Videos/Dave Koziel/Make More Money Publishing Your Kindle Books on Createspace and ACX.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:09 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0104.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:09 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/.DS_Store: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/.DS_Store": context canceled
+[s3backup] 2026/04/09 21:34:09 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/.DS_Store: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/.DS_Store": context canceled
+[s3backup] 2026/04/09 21:34:10 Retry 2/3 for Backup/Famina/Youtube Videos/Dave Koziel/Make More Money Publishing Your Kindle Books on Createspace and ACX.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:10 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0104.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:10 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/.DS_Store: writing file: context canceled
+[s3backup] 2026/04/09 21:34:10 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/.DS_Store: writing file: context canceled
+[s3backup] 2026/04/09 21:34:12 Retry 3/3 for Backup/Famina/Youtube Videos/Dave Koziel/Make More Money Publishing Your Kindle Books on Createspace and ACX.mp4: writing file: context canceled
+[s3backup] 2026/04/09 21:34:12 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/.DS_Store: writing file: context canceled
+[s3backup] 2026/04/09 21:34:12 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/.DS_Store: writing file: context canceled
+[s3backup] 2026/04/09 21:34:12 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0104.MOV: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0104.MOV": context canceled
+[s3backup] 2026/04/09 21:34:15 [worker 3] FAIL Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0104.MOV: after 3 attempts: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0104.MOV": context canceled
+[s3backup] 2026/04/09 21:34:15 [worker 0] FAIL Backup/Famina/Youtube Videos/Famina/.DS_Store: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:15 [worker 2] FAIL Backup/Famina/Youtube Videos/Famina/2017/.DS_Store: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:15 [worker 1] FAIL Backup/Famina/Youtube Videos/Dave Koziel/Make More Money Publishing Your Kindle Books on Createspace and ACX.mp4: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:15 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0106.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:15 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0108.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:15 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0107.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:15 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0109.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:16 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0107.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:16 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0106.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:16 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0108.MOV: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0108.MOV": context canceled
+[s3backup] 2026/04/09 21:34:16 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0109.MOV: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0109.MOV": context canceled
+[s3backup] 2026/04/09 21:34:18 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0109.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:18 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0106.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:18 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0108.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:18 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0107.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:21 [worker 0] FAIL Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0107.MOV: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:21 [worker 3] FAIL Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0106.MOV: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:21 [worker 2] FAIL Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0108.MOV: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:21 [worker 1] FAIL Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0109.MOV: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:21 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0111.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:21 Retry 1/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0110.MOV: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0110.MOV": context canceled
+[s3backup] 2026/04/09 21:34:22 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0110.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:22 Retry 2/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0111.MOV: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0111.MOV": context canceled
+[s3backup] 2026/04/09 21:34:24 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0111.MOV: writing file: context canceled
+[s3backup] 2026/04/09 21:34:24 Retry 3/3 for Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0110.MOV: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0110.MOV": context canceled
+[s3backup] 2026/04/09 21:34:27 [worker 0] FAIL Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0110.MOV: after 3 attempts: writing file: Get "https://chackobackup.s3.dualstack.us-west-2.amazonaws.com/Backup/Famina/Youtube%20Videos/Famina/2017/chickpea%20curry/IMG_0110.MOV": context canceled
+[s3backup] 2026/04/09 21:34:27 [worker 3] FAIL Backup/Famina/Youtube Videos/Famina/2017/chickpea curry/IMG_0111.MOV: after 3 attempts: writing file: context canceled
+[s3backup] 2026/04/09 21:34:27 Backup complete in 6m30.341s
+[s3backup] 2026/04/09 21:34:27 Total: 1509 | Copied: 1493 | Skipped: 2 | Failed: 15 | Bytes: 923483580
+[s3backup] 2026/04/09 21:34:27 Backup failed: 15 objects failed to backup
